@@ -1,0 +1,29 @@
+h1 {
+    background-color:black;
+    color: white;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+h2, h3{
+    color: fuchsia;
+}
+ul, li{
+    color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+head {
+    text-align: center;
+}
+
+p {
+    color: pink;
+}
+
+img {
+    width:auto;
+    height: 500px;
+    margin-left: auto;
+}
